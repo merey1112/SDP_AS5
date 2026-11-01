@@ -1,4 +1,4 @@
-package com.delivery.strategy.impl;
+package com.delivery.strategy;
 
 import com.delivery.model.DeliveryRequest;
 import com.delivery.model.Route;
